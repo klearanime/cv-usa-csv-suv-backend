@@ -1,6 +1,8 @@
+// * `getNewCases` - takes in a row array and returns the new cases from it (see the table header for which that is!)
 
-
-
+const getNewCases = function(rowArr) {
+  return rowArr[5];
+}
 
 
 
